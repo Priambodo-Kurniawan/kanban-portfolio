@@ -50,7 +50,8 @@ export default {
         title: '',
         description: '',
         point: 0,
-        asignTo: ''
+        asignTo: '',
+        status: 0
       }
     }
   },
